@@ -5,6 +5,6 @@ Dit
 Is
 Jaxx
 
-<img src="IMG_20210813_160552.jpg" alt="Jaxx" width="100">
+<img src="IMG_20210813_160552.jpg" alt="Jaxx" width="200">
 
-![Jaxx](IMG_20210813_160552.jpg)
+hier komt de link naar [zuyd.nl](https://zuyd.nl)
